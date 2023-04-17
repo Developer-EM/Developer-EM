@@ -4,6 +4,7 @@
 - Name: Elias
 - 20 years old
 ##
+ABOUT ME
   I started my studies in information technology learning Python (programming language). But after I started to learn web programming I decided to specialize better in the area of design. Every day I try to improve my skills as a designer.
 - Designer: Figma and Canva.
 - Front-end: HTML, CSS and JAVASCRIPT(basic)

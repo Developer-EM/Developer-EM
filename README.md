@@ -1,4 +1,4 @@
-### EM DESIGNER
+### EM
 - 💻 Front-end Developer
 - ✒️ Illustrator
 - Name: Elias

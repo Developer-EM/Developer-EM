@@ -1,6 +1,6 @@
 ### EM DESIGNER
-- ✒️ Illustrator
 - 💻 Front-end Developer
+- ✒️ Illustrator
 - Name: Elias
 - 20 years old
 ##

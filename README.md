@@ -1,5 +1,6 @@
 ### EM
 - 💻 Front-end Developer
+- ✒️Illustrator
 - Name: Elias M.
 - 09/27/2002
 ##

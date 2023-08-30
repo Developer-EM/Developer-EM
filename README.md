@@ -1,5 +1,5 @@
 ### Elias
-- 💻Front-end Developer
+- 💻Web Designer
 - ✒️Illustrator
 - 🗓️09/27/2002
 - 🌎Brazil

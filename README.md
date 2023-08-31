@@ -1,7 +1,7 @@
 ### Elias
 - 💻Web Designer
 - ✒️Illustrator
-- 🗓️09/27/2002
+- 🗓️27 Sep 2002
 - 🌎Brazil
 ##
 <img aling="center" width="400" src="https://user-images.githubusercontent.com/122825893/264228194-38685d03-d49b-45e9-a36f-9aacf7aeaf68.png" />
@@ -25,4 +25,4 @@
 ##
 
 <div>
-<img aling="center" width="290" src="https://user-images.githubusercontent.com/122825893/264474348-07ae43ed-2fe3-4f88-93ff-0e711c36998b.png" /></div>
+<img width="290" src="https://user-images.githubusercontent.com/122825893/264474348-07ae43ed-2fe3-4f88-93ff-0e711c36998b.png" /></div>
